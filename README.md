@@ -1,6 +1,6 @@
 # TodoApp
 
-## Git Help
+## Getting Started
 
 Open a terminal and run the following command. This will create a new folder `TodoApp` in your root directory that is a copy of this repository.
 
